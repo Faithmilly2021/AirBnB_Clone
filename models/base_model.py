@@ -7,6 +7,8 @@ from datetime import datetime
 import models
 import uuid
 
+time = "%Y-%m-%dT%H:%M:%S.%f"
+
 class BaseModel:
     """an attempt to create the parent class"""
     def __init__(self):
