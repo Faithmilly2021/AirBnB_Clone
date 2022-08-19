@@ -1,0 +1,25 @@
+.filters {
+	background-color: #fff;
+	height: 70px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	width: 100%;
+}
+
+/* Search Button style */
+.filters button {
+	font-size: 18px;
+	background-color: #ff5a4f;
+	color: #fff;
+	height: 48px;
+	border: None;
+	border-radius: 4px;
+	margin: 12px 30px;
+	float: right;
+	width: 20%;
+}
+
+/* Search Button hover */
+.filters button:hover {
+	background-color: rgba(255, 90, 95, .9);
+}
